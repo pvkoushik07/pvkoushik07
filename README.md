@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=koushikpv07.koushikpv07&left_color=gray&right_color=blue" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pvkoushik07.pvkoushik07&left_color=gray&right_color=blue" alt="Visitor Badge" />
 </p>
 
 ### 🚀 About Me
@@ -20,23 +20,20 @@ I specialize in building production-grade AI platforms, RAG pipelines, and multi
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koushikpv07&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Koushik's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pvkoushik07&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Koushik's Trophies" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, SQL, Bash, PostgreSQL, HTML, CSS, JavaScript [cite: 51] |
+| **AI & Machine Learning** | [cite_start]Langchain, LangGraph, Huggingface, PyTorch, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Matplotlib, seaborn [cite: 52] |
+| **Data Engineering** | [cite_start]PySpark, HDFS [cite: 52] |
+| **Cloud, DevOps & Testing** | [cite_start]GCP, Microsoft Azure, Docker, Git, Postman, Selenium [cite: 52] |
+| **IDEs & Environments** | [cite_start]Jupyter Notebook, VS Code, Google Colab [cite: 52] |
 
 ---
 
@@ -65,13 +62,13 @@ I specialize in building production-grade AI platforms, RAG pipelines, and multi
 ### 📈 Activity & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikpv07&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikpv07&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvkoushik07&show_icons=true&theme=radical&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvkoushik07&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🐍 Contribution Graph Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/koushikpv07/koushikpv07/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/pvkoushik07/pvkoushik07/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
