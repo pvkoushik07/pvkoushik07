@@ -13,15 +13,18 @@ I specialize in building production-grade AI platforms, RAG pipelines, and multi
 
 - 🧠 **Currently Building:** Sovereign, privacy-first GenAI architectures for mental health platforms.
 - 🎓 **Academic Lead:** Casual Academic Tutor for distributed systems (Apache Spark & Pig) at UQ.
-- 💬 **Ask me about:** Large Language Models (LLMs), embeddings, and multimodal fusion.
+- 💬 **Ask me about:** - **Deep Learning & GenAI:** LLMs, embeddings, RAG architectures, and multimodal fusion.
+  - **Machine Learning & Algorithms:** Time-series modeling, clustering, and network science.
+  - **Causal Inference:** Propensity Score Matching and Difference-in-Differences.
 - 📫 **Reach me at:** [koushikpv07@gmail.com](mailto:koushikpv07@gmail.com)
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pvkoushik07&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Koushik's Trophies" />
-</p>
+### 💼 Professional Experience
+
+* **Backend & AI Engineer | People Tech Revolution:** Architecting production-grade RAG pipelines and self-hosted LLM systems (LLaMA 3.1) on GCP. Bridging the gap between technical architecture and business requirements for a privacy-first GenAI platform.
+* **Casual Academic Tutor | The University of Queensland:** Guiding 60+ students through hands-on, large-scale data processing pipelines using Apache Spark and Pig.
+* **Software Quality Assurance Specialist | Shell:** Engineered automated testing frameworks and executed rigorous API testing (Postman, Selenium) across 50+ critical endpoints. Streamlined QA processes to cut feature release times by 30% and dramatically reduce production data errors.
 
 ---
 
@@ -48,15 +51,21 @@ I specialize in building production-grade AI platforms, RAG pipelines, and multi
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 </p>
 
-**Data Engineering, Cloud & Tools** <p>
-  <img src="https://img.shields.io/badge/apache_spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/HDFS-FCC624?style=for-the-badge&logo=hadoop&logoColor=black" />
+**Data Engineering, Cloud & DevOps** <p>
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache_spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/HDFS-FCC624?style=for-the-badge&logo=hadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+</p>
+
+**Environments & IDEs** <p>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 </p>
 
 ---
@@ -83,8 +92,12 @@ I specialize in building production-grade AI platforms, RAG pipelines, and multi
 
 ---
 
-### 📈 Activity & Stats
+### 🔥 GitHub Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvkoushik07&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
+### 📈 Activity & Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvkoushik07&show_icons=true&theme=radical&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvkoushik07&layout=compact&theme=radical" />
