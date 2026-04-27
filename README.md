@@ -45,8 +45,8 @@ I am a Master of Data Science student (GPA: 6.25/7) specializing in building pro
 ---
 
 ### 📈 GitHub Stats
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikpv07&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikpv07&layout=compact&theme=radical)
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvkoushik07&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvkoushik07&layout=compact&theme=radical)
 
 ---
 
